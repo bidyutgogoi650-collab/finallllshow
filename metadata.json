@@ -1,0 +1,6 @@
+{
+  "name": "Driftway",
+  "description": "AI-powered wilderness and travel expedition planner featuring bespoke day-by-day itineraries, trail telemetry, and dynamic budget intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
